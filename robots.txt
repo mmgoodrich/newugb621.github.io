@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /r/
+
+Sitemap: https://unblockedgames621.com/sitemap.txt
