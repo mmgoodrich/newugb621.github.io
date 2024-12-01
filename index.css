@@ -69,34 +69,6 @@
 	background-position: 0px 0px;
 }
 
-#status {
-	position: absolute;
-	display: block;
-	width: 100px;
-	height: 30px;
-	top: 10px;
-	left: 190px;
-	cursor: default;
-	font-size: 14px;
-	font-weight: 600;
-	line-height: 30px;
-	letter-spacing: 0px;
-}
-
-#version {
-	position: absolute;
-	display: block;
-	width: auto;
-	height: 30px;
-	top: 10px;
-	left: 300px;
-	color: #606060;
-	cursor: default;
-	font-size: 12px;
-	line-height: 30px;
-	letter-spacing: 0px;
-}
-
 #side-menu, #hamb {
 	display: none;
 }
@@ -135,17 +107,6 @@
 #nav-bar>button[data-current], #game-category>button[data-current], #item-category>button[data-current] {
 	color: #303030;
 	font-weight: 600;
-}
-
-#accn-btn::before {
-	position: relative;
-	display: inline-block;
-	width: 3px;
-	height: 20px;
-	padding: 0px 10px;
-	content: "";
-	border-left: 3px solid #808080;
-	vertical-align: middle;
 }
 
 #loading {
